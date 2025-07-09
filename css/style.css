@@ -308,3 +308,15 @@ footer{
         justify-content: end;
     }
 }
+
+.mensaje-error{
+    background-color: rgb(182,0,0);
+    text-align: center;
+    color: var(--blanco);
+}
+
+.mensaje-enviado{
+    background-color: rgb(100,200,100);
+    text-align: center;
+    color: var(--blanco);
+}
